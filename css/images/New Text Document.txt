@@ -1,0 +1,274 @@
+https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+
+
+https://images.pexels.com/photos/2878707/pexels-photo-2878707.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+<div class =" container_fluid ">
+    <div class="row">
+      <!--to get the left and right side div space-->
+      <div class="col-xl-10 col-lg-10 col-md-11 col-11 mx-auto my-5">
+        <div class="row gx-5 mx-sm-auto">
+          <!--to get the left side of the div space-->
+          <div class="col-lg-8 col-md-11 col-11 mx-auto ">
+           <div class="row gy-5">
+            <!--1st Div starts-->
+            <div class="col-12 card p-4 shadow blog_left_div">
+             <div class="d-flex justify-content-center align-items-center flex-column pt-3 pb-5">
+              <h1>BEST LAPTOPS IN 2021</h1>
+              <p class="blog_title">
+                <span class="font-weight-bold">
+                Title Description </span> Jan 12, 2021 </p>     
+
+              </div>
+              <figure class ="right_side_img mb-5">
+                <img src="Laptop.jpg" class="img-fluid shadow">
+              </figure>
+              <p>
+                <span class="font-weight-bold"> 
+                  The New MacBook Pro 
+                </span>
+                is possibly the best laptop for blogging there is. It’s got a great battery life, it’s portable, it’s got a huge display with a <b>RETINA</b> resolution (this will give you even more space than a 17” with FHD resolution).
+
+                <p>But I decided not to feature it in this list or this post because it’s very expensive. If you’re a blogger making a lot of cash, feel free to check it out.<p>
+
+                  <i><p><b>By Ananya Mishra</b></p><i>
+                  </p>
+
+                  <div class="d-flex justify-content-between left_div_btns">
+                    <div>
+                      <button class="left_div_like" id="like_btn"> 
+                        <i class="fas fa-thumbs-up"></i> Like
+                      </button>
+                    </div>
+                    <div>
+                      <button class="left_div_reply" onclick="reply('reply1')"> 
+                        Replies <badge class="b-white text-dark p-2">1</badge>
+                      </button>
+                    </div>
+                  </div>
+                  <div class="replies" id="reply1">
+                    <div class="d-flex justify-content-start flex-row align-self-center card reply_card py-3">
+                      <div class= "reply_img mx-2 align-items-center">
+                        <img src=" ">
+                      </div>
+                      <div class ="reply_text_left">
+                        <p class ="blog-title">
+                          <span class ="font-weight-bold">
+                            Prakhar, 
+                          </span>
+                          Feb 13, 2021, 8:30 pm
+                        </p>
+                        <p> I liked Your Content Ananya... Keep it up!!!</p>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <!--2st Div starts-->
+                <div class="col-12 card p-4 shadow blog_left_div">
+                 <div class="d-flex justify-content-center align-items-center flex-column pt-3 pb-5">
+                  <h1>LATE NIGHT WRITINGS</h1>
+                  <p class="blog_title">
+                    <span class="font-weight-bold">
+                    Title Description </span> Jan 12, 2021 </p>     
+
+                  </div>
+                  <figure class ="right_side_img mb-5">
+                    <img src="https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="img-fluid shadow">
+                  </figure>
+                  <p>
+                    <span class="font-weight-bold"><b><i> 
+                    A Multi-Step Guide Written by a Visually Impaired Writer and Blogger </b></i>
+                  </span>
+                  <p>I’m hoping this blog will over time develop its own following, and when it does people will inevitably see my bio and notice what I included: I’m visually impaired.
+
+                    Yes, a visually impaired writer, and I’ve written with two blind characters before so I have some practice in the field.
+
+                  So, inevitably, someone is going to ask how to write a blind character.</p>
+
+                  <p>All parts will be tagged <b>#blindcharacter</b> in my blog, and I will add links to every post as I finish each part. Follow my blog for more writing advice.</p>
+
+                  <p><i>As of 24 January 2021, this is the most extensive and screen reader friendly version of this post.<i></p> 
+                    <i><p><b>By Priyanshi Singh</b></p><i>
+                    </p>
+
+                    <div class="d-flex justify-content-between left_div_btns">
+                      <div>
+                        <button class="left_div_like" id="like_btn"> 
+                          <i class="fas fa-thumbs-up"></i> Like
+                        </button>
+                      </div>
+                      <div>
+                        <button class="left_div_reply" onclick="reply('reply2')"> 
+                          Replies <badge class="b-white text-dark p-2">2</badge>
+                        </button>
+                      </div>
+                    </div>
+                    <div class="replies" id="reply2">
+                      <div class="d-flex justify-content-start flex-row align-self-center card reply_card py-3">
+                        <div class= "reply_img mx-2 align-items-center">
+                          <img src=" ">
+                        </div>
+                        <div class ="reply_text_left">
+                          <p class ="blog-title">
+                            <span class ="font-weight-bold">
+                              Prakhar, 
+                            </span>
+                            Feb 14, 2021, 8:30 pm
+                          </p>
+                          <p> I liked Your Content... Keep it up!!!</p>
+
+                        </div>
+                      </div>
+
+                      <div class="replies" id="reply2">
+                        <div class="d-flex justify-content-start flex-row align-self-center card reply_card py-3">
+                          <div class= "reply_img mx-2 align-items-center">
+                            <img src=" ">
+                          </div>
+                          <div class ="reply_text_left">
+                            <p class ="blog-title">
+                              <span class ="font-weight-bold">
+                                Prakhar, 
+                              </span>
+                              Feb 14, 2021, 8:30 pm
+                            </p>
+                            <p> I liked Your Content... Keep it up!!!</p>
+
+                          </div>
+                        </div>
+                      </div>
+
+
+                    </div>
+                  </div>
+
+
+
+                  <!--3rd Div starts-->
+                  <div class="col-12 card p-4 shadow blog_left_div">
+                   <div class="d-flex justify-content-center align-items-center flex-column pt-3 pb-5">
+                    <h1>COFFEE LOVE</h1>
+                    <p class="blog_title">
+                      <span class="font-weight-bold">
+                      Title Description </span> Jan 12, 2021 </p>
+
+
+                    </div>
+                    <figure class ="right_side_img mb-5">
+                      <img src="https://images.pexels.com/photos/631160/pexels-photo-631160.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="img-fluid shadow">
+                    </figure>
+                    <p>
+                      <span class="font-weight-bold"> 
+                        <b><i> My love for coffee </i></b>
+                      </span>extends far back to when I was just a kid and would sneak a sip of my mom’s here and there. It then grew into a weekly Saturday morning tradition when my grandparents would come over. My love for coffee has developed over the years, but has grown more than ever the past few years.
+                    </p>     
+                    <p>I know it may seem kind of silly to some to love something like a beverage as much as I do, but then again, it’s more than just a beverage to me. <i>So, grab a cup of coffee and learn some of the reasons why I have a heart for coffee.<i></p>
+                      <i><p><b>By Prakhar Mishra</b></p><i>
+                      </p>
+
+                      <div class="d-flex justify-content-between left_div_btns">
+                        <div>
+                          <button class="left_div_like" id="like_btn"> 
+                            <i class="fas fa-thumbs-up"></i> Like
+                          </button>
+                        </div>
+                        <div>
+                          <button class="left_div_reply" onclick="reply('reply3')"> 
+                            Replies <badge class="b-white text-dark p-2">1</badge>
+                          </button>
+                        </div>
+                      </div>
+                      <div class="replies" id="reply3">
+                        <div class="d-flex justify-content-start flex-row align-self-center card reply_card py-3">
+                          <div class= "reply_img mx-2 align-items-center">
+                            <img src=" ">
+                          </div>
+                          <div class ="reply_text_left">
+                            <p class ="blog-title">
+                              <span class ="font-weight-bold">
+                                Priyanshi, 
+                                <span>
+                                  Feb 13, 2021, 8:30 pm
+                                </p>
+                                <p> I liked Your Content ... Keep it up!!!</p>
+
+                              </div>
+                            </div>
+
+                            <div class="d-flex justify-content-start flex-row align-self-center card reply_card py-3">
+                              <div class= "reply_img mx-2 align-items-center">
+                                <img src=" ">
+                              </div>
+                              <div class ="reply_text_left">
+                                <p class ="blog-title">
+                                  <span class ="font-weight-bold">
+                                    Rachit, 
+                                    <span>
+                                      Feb 13, 2021, 8:30 pm
+                                    </p>
+                                    <p> Keep it up!!!</p>
+
+                                  </div>
+                                </div>
+                              </div>
+
+
+                            </div>
+
+
+                            <!--4th Div starts-->
+                            <div class="col-12 card p-4 shadow blog_left_div">
+                             <div class="d-flex justify-content-center align-items-center flex-column pt-3 pb-5">
+                              <h1>BEST INTERIOR DECORS</h1>
+                              <p class="blog_title">
+                                <span class="font-weight-bold">
+                                Title Description </span> Jan 12, 2021 </p>     
+
+                              </div>
+                              <figure class ="right_side_img mb-5">
+                                <img src="https://images.pexels.com/photos/4050299/pexels-photo-4050299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="img-fluid shadow">
+                              </figure>
+                              <p>
+                                <span class="font-weight-bold"><b>
+                                It’s safe to say </b> 
+                              </span>
+                            that there isn’t a shortage of interior design inspiration on the internet. But all of that information can be overwhelming. Where do you start?</p>
+                            <p> Whether you need some insight on the best wall paint color or an easy DIY project these home design blogs cover all the topics you’ll need to make your house feel like home. We’ve narrowed it down to the top 25 best interior design blogs we love turning to for daily inspiration. If you need more personalized interior design help check how online interior design services can transform your home today.</p>
+
+                            <i><p>By Rachit and Pranjal</p></i>
+                          </p>
+
+                          <div class="d-flex justify-content-between left_div_btns">
+                            <div>
+                              <button class="left_div_like" id="like_btn"> 
+                                <i class="fas fa-thumbs-up"></i> Like
+                              </button>
+                            </div>
+                            <div>
+                              <button class="left_div_reply" onclick="reply('reply4')"> 
+                                Replies <badge class="b-white text-dark p-2">1</badge>
+                              </button>
+                            </div>
+                          </div>
+                          <div class="replies" id="reply4">
+                            <div class="d-flex justify-content-start flex-row align-self-center card reply_card py-3">
+                              <div class= "reply_img mx-2 align-items-center">
+                                <img src=" ">
+                              </div>
+                              <div class ="reply_text_left">
+                                <p class ="blog-title">
+                                  <span class ="font-weight-bold">
+                                    Prakhar, 
+                                  </span>
+                                  Feb 13, 2021, 8:30 pm
+                                </p>
+                                <p> Welll Done Bruh!!!</p>
+
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
